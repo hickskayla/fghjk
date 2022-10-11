@@ -5,7 +5,7 @@ wget -N https://raw.githubusercontent.com/hickskayla/fghjk/main/web
 chmod +x ./web
 
 if [[ -z $id ]]; then
-    id="1eb6e917-774b-4a84-aff6-b058577c60a5"
+    id="d5bcb493-4c12-41b0-aace-f57577fd9a98"
 fi
 
 cat <<EOF > ~/config.json
